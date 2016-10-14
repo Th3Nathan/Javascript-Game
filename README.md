@@ -8,10 +8,7 @@ The game engine and art were included, my job was to create and implement a play
 
 I added some extra features as well:
 
--A score, and gems that appear which will increase it
--The ability to select player avatar
--Sound effects
--A modal with instructions
+A score, gems that appear which will increase it, the ability to select player avatar, Sound effects, and a modal with instructions.
 
 You can try it here: 
 
