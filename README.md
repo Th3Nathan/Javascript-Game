@@ -4,11 +4,11 @@ The project details are here:
 
 https://github.com/udacity/frontend-nanodegree-arcade-game
 
-The game engine and art were included, my job was to create and implement a player and enemy class that worked with it. Even after taking the course, it was hard to know where to start when I actually looked at the code for the first time. Once I got that first bug to pop up though, it started to flow. 
+The game engine and art were included, my job was to create and implement a player and enemy class that worked with the engine. After taking the course, it was hard to know where to begin, but once I got that first bug to pop up though, it started to flow. 
 
-I added some extra features as well:
+I added some extra features:
 
-A score, gems that appear which will increase it, the ability to select player avatar, Sound effects, and a modal with instructions.
+A scoreboard, gems that appear which will increase the score, the ability to select player avatar, sound effects, and a modal with instructions.
 
 You can try it here: 
 
