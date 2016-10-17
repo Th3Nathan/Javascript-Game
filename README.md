@@ -13,3 +13,5 @@ A score, gems that appear which will increase it, the ability to select player a
 You can try it here: 
 
 https://Th3Nathan.github.io/game
+
+This is a work in progress. I plan to add a way to win, lives, and varying enemy speeds depending on score. 
