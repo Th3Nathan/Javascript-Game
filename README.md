@@ -8,10 +8,9 @@ The game engine and art were included, my job was to create and implement a play
 
 I added some extra features:
 
-A scoreboard, gems that appear which will increase the score, the ability to select player avatar, sound effects, and a modal with instructions.
+A scoreboard, gems that appear which will increase the score, the ability to select player avatar, sound effects, instructions, a high score, a delay when a player jumps in the water, and three lives. 
 
 You can try it here: 
 
 https://Th3Nathan.github.io/game
 
-This is a work in progress. I plan to add a way to win, lives, and varying enemy speeds depending on score. 
